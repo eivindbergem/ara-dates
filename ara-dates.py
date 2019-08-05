@@ -25,5 +25,7 @@ for line in open("dates.txt"):
             print "%s %s %s" % (weekdays[day], date, months[month])
         else:
             print "%s %s" % (date, months[month])
+    else:
+        print
 
 
