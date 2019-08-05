@@ -13,7 +13,7 @@ for line in open("weekdays.txt"):
     parts = line.split()
     weekdays[parts[0].lower()] = parts[2]
 
-regex = re.compile("^(\d+)\.([^ ]+) \(([^)]*)\).*$")
+regex = re.compile("^(\d+)\. ?([^ ]+)(?: \(([^)]*)\))?.*\n$")
 
 for line in open("dates.txt"):
     matches = regex.match(line)
@@ -21,5 +21,9 @@ for line in open("dates.txt"):
     if matches:
         date, month, day = matches.groups()
 
-        print "%s %s %s" % (weekdays[day], date, months[month])
+        if day:
+            print "%s %s %s" % (weekdays[day], date, months[month])
+        else:
+            print "%s %s" % (date, months[month])
+
 
