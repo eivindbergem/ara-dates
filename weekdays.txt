@@ -1,0 +1,7 @@
+Mandag = الإثْنَين (al-ithnayn)
+Tirsdag = الثَلاثاء (al-thalāthāʾ)
+Onsdag = الأربَعاء (al-arbaʿāʾ)
+Torsdag = الخَميس (al-khamīs)
+Fredag = الجُمُعة (al-jumuʿah)
+Lørdag = السَبْت (al-sabt)
+Søndag = الأحَد (al-aḥad)

@@ -1,0 +1,13 @@
+1	Januar	يناير	Yanāyir	[jæ'næːjer]
+2	Februar	فبراير	Fibrāyir	[febˈɾˤɑːjeɾ]
+3	Mars	مارس	Māris	[ˈmæːɾes]
+4	April	أبريل / إبريل	Abrīl / Ibrīl	[ʔebˈɾiːl, ʔæb-]
+5	Mai	مايو	Māyū	[ˈmæːjo]
+6	Juni	يونيو / يونية	Yūniyū / Yūniyya	[ˈjonjæ, -jo]
+7	July	يوليو / يولية	Yūliyū / Yūliyya	[ˈjoljæ, -jo]
+8	August	أغسطس	Aghusṭus	[ɑˈɣostˤos, oˈ-]
+9	September	سبتمبر	Sibtambir	[sebˈtæmbeɾ, -ˈtem-, -ˈtɑm-]
+10	Oktober	أكتوبر	Uktūbar	[okˈtoːbɑɾˤ, ek-, ɑk-]
+11	November	نوفمبر	Nūfambir	[noˈvæmbeɾ, -ˈvem-, -ˈfæm-,
+-ˈfem-, -ˈvɑm-, -ˈfɑm-]
+12	Desember	ديسمبر	Dīsambir	[deˈsæmbeɾ, -ˈsem-, -ˈsɑm-]
